@@ -1,8 +1,6 @@
 
 ### Hello, I am Jonathan Poblet 👋
 #### Frontend Developer  💻 
-##### Knowledge in Html5, Css3, JavaScript, React Js and React Native.
-
 
 
 
