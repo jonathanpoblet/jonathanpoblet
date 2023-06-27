@@ -1,6 +1,6 @@
 
 ### Hello, I am Jonathan Poblet 👋
-#### Frontend Developer  💻 
+#### Full Stack MERN Developer  💻 
 
 
 
