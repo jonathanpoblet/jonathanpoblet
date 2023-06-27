@@ -8,8 +8,7 @@
 
 
 - Developing mobile and web applications
-- Improving my skills as a Frontend Developer
-- Studying backend programming in the stack MERN
+- Working for "Grupo Taraborelli" as Frontend Developer
 
 ___
 
