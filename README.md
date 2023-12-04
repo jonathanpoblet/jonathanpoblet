@@ -8,7 +8,7 @@
 
 
 - Developing mobile and web applications
-- Working for "Grupo Taraborelli" as Frontend Developer
+- Working for "Grupo Taraborelli" as Full Stack MERN Developer
 
 ___
 
