@@ -91,6 +91,6 @@ ____
 <a href="https://www.linkedin.com/in/jonathan-poblet-0893a623a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />Jonathan Poblet</a>
 
 
-<a href="jonathanpoblet@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jonathanpoblet" height="30" width="40" />jonathanpoblet228@gmail.com</a>
+<a href="jonathanpoblet228@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jonathanpoblet" height="30" width="40" />jonathanpoblet228@gmail.com</a>
 </p>
 
